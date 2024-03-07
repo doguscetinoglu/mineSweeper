@@ -1,0 +1,19 @@
+
+z	java:S1356"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8šñ÷á1
+G	java:S106"+Replace this use of System.out by a logger.(ØíÏÈ8¶ò÷á1
+G	java:S106""+Replace this use of System.out by a logger.(ØíÏÈ8¶ò÷á1
+L	java:S106&"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¶ò÷á1
+G	java:S1060"+Replace this use of System.out by a logger.(öÈÛ¡8¶ò÷á1
+G	java:S1068"+Replace this use of System.out by a logger.(øÌ•‚8¸ò÷á1
+F	java:S106<"+Replace this use of System.out by a logger.(²Ü¡48¹ò÷á1
+G	java:S106C"+Replace this use of System.out by a logger.(ö¨©Â8¹ò÷á1
+L	java:S106I"+Replace this use of System.out by a logger.(­å’üÿÿÿÿ8¹ò÷á1
+L	java:S106Q"+Replace this use of System.out by a logger.(ËÂ­Îøÿÿÿÿ8¹ò÷á1
+L	java:S106Z"+Replace this use of System.out by a logger.(ˆ³ÎŒûÿÿÿÿ8ºò÷á1
+G	java:S106_"+Replace this use of System.out by a logger.(êùŠÖ8ºò÷á1
+G	java:S106d"+Replace this use of System.out by a logger.(…ŠÏş8ºò÷á1
+o
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ñ‰?8»ò÷á1
+G	java:S106º"+Replace this use of System.out by a logger.(×éÁ8½ò÷á1
+H	java:S106½"+Replace this use of System.out by a logger.(¯Ê×Ï8½ò÷á1
+M	java:S106¿"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8½ò÷á1

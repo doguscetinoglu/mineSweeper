@@ -19,10 +19,13 @@ public class MineSweeper {
         this.area = row * column;
 
     }
-
+    // Harita Alanı
     Scanner scan = new Scanner(System.in);
     Random rand = new Random();
 
+
+    // Harita oluşturulan Alan
+    // Map created Area
 
     public void map(String[][] map) {
         for (int i = 0; i < map.length; i++) {
@@ -45,7 +48,7 @@ public class MineSweeper {
         int count = 0;
         mineAdd();
         map(mineMap);
-        System.out.println("--------");
+        System.out.println("--------------");
         map(playerMap);
 
         // Değerlendirme Formu # 9 Oyuncu Konumu Seçim Alanı (Satır)
@@ -177,6 +180,9 @@ public class MineSweeper {
         }
 
     }
+
+      // Oyuncuya Mayınların Bilgisini Söyleyen Alan
+     // Field Telling the Player the Information of Mines
 
     public void mineInfo(int row, int col) {
         for (int i = 0; i < playerMap.length; i++) {

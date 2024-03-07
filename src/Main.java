@@ -20,7 +20,8 @@ public class Main {
                 break;
             }
         }
-
+        // Oyunu Başlat !
+        // Start the game!
         MineSweeper play = new MineSweeper(row,col);
         play.run();
     }

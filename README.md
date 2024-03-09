@@ -17,7 +17,7 @@ Bu proje, bir mayın tarlası oyununu Java programlama diliyle oluşturmayı ama
 
 # Mayın Tarlası Oyunu Teknik detayları
 
-Bu proje, Java programlama dili kullanılarak geliştirilmiş bir mayın tarlası oyununu içerir.
+Bu proje, Java programlama dili (JDK 21 ) kullanılarak geliştirilmiş bir mayın tarlası oyununu içerir.
 
 ## Kullanılan Teknolojiler
 
